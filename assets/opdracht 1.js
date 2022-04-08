@@ -1,6 +1,7 @@
 //Opdracht 1 - Array Methoden
 //Opdracht 1a: Gebruik een array-methode om een array te maken met alle tv-type namen. Log de uitkomst in de console.
 
+
 const tvTypeName = inventory.map((inventorys)=>{
     return inventorys.type;
 
