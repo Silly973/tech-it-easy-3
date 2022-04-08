@@ -1,0 +1,13 @@
+article{
+    color: green;
+    font-size: larger;
+}
+
+p{
+    color: blue;
+    font-size: larger;
+}
+
+ul{
+    list-style: none;
+}
